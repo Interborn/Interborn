@@ -40,3 +40,12 @@ You can click the Preview link to take a look at your changes.
 <a href='#' target="_blank"><img alt='Adobe After Effects' src='https://img.shields.io/badge/After_Effects-100000?style=flat&logo=Adobe After Effects&logoColor=9999FF&labelColor=black&color=black'/></a>
 <a href='#' target="_blank"><img alt='Adobe Premiere Pro' src='https://img.shields.io/badge/Premiere_Pro-100000?style=flat&logo=Adobe Premiere Pro&logoColor=9999FF&labelColor=black&color=black'/></a>
 <a href='#' target="_blank"><img alt='Blender' src='https://img.shields.io/badge/Blender-100000?style=flat&logo=Blender&logoColor=F5792A&labelColor=black&color=black'/></a>
+
+<hr class="solid">
+
+<h2>Check Out My Statistics</h2>
+<img src="https://komarev.com/ghpvc/?username=charlesknapp&label=Profile%20views&color=0e75b6&style=flat" alt="charlesknapp" /> <a href="#" title="Go to contributions doc"><img src="https://img.shields.io/badge/contributions-welcome-blue" alt="contributions - welcome"></a> <a href="https://www.microsoft.com/" title="Go to Microsoft homepage"><img src="https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white" alt="OS - Windows"></a> <a href="https://www.apple.com/macos/" title="Go to Apple homepage"><img src="https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white" alt="OS - macOS"></a>
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
