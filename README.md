@@ -1,6 +1,6 @@
-<h1>Howdy, I'm Dylan!<a href='https://www.linkedin.com/in/dylansafra/' target="_blank" style="float:right"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&labelColor=black&color=black'/></a>
-<a href='https://github.com/Cadogy' target="_blank" style="float:right"><img alt='GitHub' src='https://img.shields.io/badge/Cadogy-100000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&labelColor=black&color=black'/></a>
-<a href='#' target="_blank" style="float:right"><img alt='Buy Me a Coffee' src='https://img.shields.io/badge/Buy_Me A Coffee-100000?style=for-the-badge&logo=Buy Me a Coffee&logoColor=FFDD00&labelColor=black&color=black'/></a>
+<h1>Howdy, I'm Dylan! <a href='https://www.linkedin.com/in/dylansafra/' target="_blank" align="right"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&labelColor=black&color=black'/></a>
+<a href='https://github.com/Cadogy' target="_blank" align="right"><img alt='GitHub' src='https://img.shields.io/badge/Cadogy-100000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&labelColor=black&color=black'/></a>
+<a href='#' target="_blank" align="right"><img alt='Buy Me a Coffee' src='https://img.shields.io/badge/Buy_Me A Coffee-100000?style=for-the-badge&logo=Buy Me a Coffee&logoColor=FFDD00&labelColor=black&color=black'/></a>
 <hr class="solid">
 <a href='#' target="_blank"><img alt='hero banner' src='https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif'/></a></h1>
 
