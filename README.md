@@ -4,7 +4,7 @@
 <hr class="solid">
 <a href='#' target="_blank"><img alt='hero banner' src='https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif'/></a></h1>
 
-<h3>Creating digital experiences that define the future.</h3>
+<h1>Creating digital experiences that define the future.</h1>
 I’m a highly driven web developer, with a passion for helping others and an aptitude for problem-solving. Attention to detail, clear communication, and a professional demeanor are the vessels I use to deliver impecable results.
 
 Reach out to talk or collaborate!
