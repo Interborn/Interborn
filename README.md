@@ -1,7 +1,7 @@
 <h1>Howdy, I'm Dylan!
-<a href='https://playerbay.com' target="_blank"><img alt='PlayerBay' src='https://img.shields.io/badge/PlayerBay-100000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&labelColor=black&color=black' align="right"/></a>
 <a href='https://github.com/Cadogy' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Cadogy-100000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&labelColor=black&color=black' align="right"/></a>
 <a href='https://www.linkedin.com/in/dylansafra/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&labelColor=black&color=black' align="right"/></a>
+<a href='https://playerbay.com' target="_blank"><img alt='PlayerBay' src='https://img.shields.io/badge/PlayerBay-100000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&labelColor=black&color=black' align="right"/></a>
 <hr class="solid">
 <a href='#' target="_blank"><img alt='hero banner' src='https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif'/></a></h1>
 
