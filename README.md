@@ -1,4 +1,4 @@
-<h1>Howdy, I'm Dylan! <a href='#' target="_blank"></a>
+<h1>Howdy, I'm Dylan!
 <a href='https://github.com/Cadogy' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Cadogy-100000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&labelColor=black&color=black' align="right"/></a>
 <a href='https://www.linkedin.com/in/dylansafra/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&labelColor=black&color=black' align="right"/></a>
 <hr class="solid">
